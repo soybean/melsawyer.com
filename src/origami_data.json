@@ -5,7 +5,7 @@
       "name": "Venetian Star",
       "designer": "Paolo Bascetta",
       "units": "48",
-      "geometry": "6 8-unit stars, descending in size, form this model. I used a ratio of 0.793 for the paper sizes"
+      "geometry": "6 8-unit stars, descending in size, form this model. I used a ratio of 0.793 for the paper sizes."
     },
     {
       "id": 2,
@@ -14,5 +14,85 @@
       "designer": "Tomoko Fuse",
       "units": "270",
       "geometry": "This model is made from a combination of pentagons and hexagons."
-    }
+    },
+    {
+        "id": 3,
+        "title": "Rose Unit Variation Lamp #1",
+        "name": "Rose unit variation",
+        "designer": "Original rose unit created by Tomoko Fuse, variation by me",
+        "units": "360",
+        "geometry": "I created this variation on Fuse's rose unit for this lamp. The model is built from 12 pentagons and 36 hexagons, which provide the curvature for the lamp."
+      },
+      {
+        "id": 4,
+        "title": "Sonobe Wall Hanging",
+        "name": "Sonobe",
+        "designer": "Mitsunobu Sonobe",
+        "units": "120",
+        "geometry": "'Sonobe carpet', as it is sometimes called, is only made of hexagons which provide the neutral curvature."
+      },
+      {
+        "id": 5,
+        "title": "Sonobe Lamp",
+        "name": "Sonobe",
+        "designer": "Mitsunobu Sonobe",
+        "units": "270",
+        "geometry": "This model is made from a combination of pentagons and hexagons."
+      },
+      {
+        "id": 6,
+        "title": "Arijigoku sphere",
+        "name": "Arijigoku (Ant-Lion Nest)",
+        "designer": "Tomoko Fuse",
+        "units": "270",
+        "geometry": "This model is made from a combination of pentagons and hexagons."
+      },
+      {
+        "id": 7,
+        "title": "Rose Unit Variation Lamp #2",
+        "name": "Rose unit variation",
+        "designer": "Original rose unit created by Tomoko Fuse, variation by me",
+        "units": "270",
+        "geometry": "I created this variation on Fuse's rose unit for this lamp. The model is built from 12 pentagons and 36 hexagons, which provide the curvature for the lamp."
+      },
+      {
+        "id": 8,
+        "title": "PHiZZ Torus",
+        "name": "PHiZZ",
+        "designer": "Thomas Hull",
+        "units": "555",
+        "geometry": "This model is made from a combination of pentagons, hexagons, and heptagons which ultimately create the curvature of the torus."
+      },
+      {
+        "id": 9,
+        "title": "Fiesta Lamp #1",
+        "name": "Fiesta model",
+        "designer": "Maria Vakhrusheva",
+        "units": "880",
+        "geometry": "I created the oblong shape of this lamp by using only hexagons in the middle section while using the same pentagon/hexagon combination in the top and bottom."
+      },
+      {
+        "id": 10,
+        "title": "Venetian Star #2",
+        "name": "Venetian Star",
+        "designer": "Paolo Bascetta",
+        "units": "48",
+        "geometry": "6 8-unit stars, descending in size, form this model. I used a ratio of 0.793 for the paper sizes."
+      },
+      {
+        "id": 11,
+        "title": "Honeycomb Lamp",
+        "name": "Honeycomb",
+        "designer": "Tomoko Fuse",
+        "units": "120",
+        "geometry": "This model is made from a combination of pentagons and hexagons."
+      },
+      {
+        "id": 12,
+        "title": "PHiZZ Sphere",
+        "name": "PHiZZ",
+        "designer": "Thomas Hull",
+        "units": "90",
+        "geometry": "This model is made from a combination of pentagons and hexagons."
+      }
    ]
