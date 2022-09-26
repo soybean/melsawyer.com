@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7f518db0.css",
+    "main.js": "/static/js/main.518cbcd2.js",
+    "static/media/12.png": "/static/media/12.dd3593b3a1d4e40782ad.png",
+    "static/media/1.png": "/static/media/1.edf00de140626df2b0e3.png",
+    "static/media/11.png": "/static/media/11.609e50875f839354f8f6.png",
+    "static/media/5.png": "/static/media/5.c9cd09cb2a23e0173f08.png",
+    "static/media/3.png": "/static/media/3.e479606a762d5cfd60af.png",
+    "static/media/2.png": "/static/media/2.92c159263ea0e5a8916c.png",
+    "static/media/10.png": "/static/media/10.34c323db0c0705c369e8.png",
+    "static/media/7.png": "/static/media/7.8327deaf43805f6189ed.png",
+    "static/media/6.png": "/static/media/6.805842e803fd44c28ee1.png",
+    "static/media/9.png": "/static/media/9.872bf1733e5bda648a8e.png",
+    "static/media/4.png": "/static/media/4.d1b5bce8941e9d3012dc.png",
+    "static/media/8.png": "/static/media/8.e1f903ab5ec792cf95d1.png",
+    "static/media/resume.pdf": "/static/media/resume.bcde0f8a9189f5269b19.pdf",
+    "index.html": "/index.html",
+    "main.7f518db0.css.map": "/static/css/main.7f518db0.css.map",
+    "main.518cbcd2.js.map": "/static/js/main.518cbcd2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f518db0.css",
+    "static/js/main.518cbcd2.js"
+  ]
+}
