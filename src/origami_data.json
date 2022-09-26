@@ -1,0 +1,18 @@
+[
+    {
+      "id": 1,
+      "title": "Venetian Star #1",
+      "name": "Venetian Star",
+      "designer": "Paolo Bascetta",
+      "units": "48",
+      "geometry": "6 8-unit stars, descending in size, form this model. I used a ratio of 0.793 for the paper sizes"
+    },
+    {
+      "id": 2,
+      "title": "Arijigoku lamp #1",
+      "name": "Arijigoku (Ant-Lion Nest)",
+      "designer": "Tomoko Fuse",
+      "units": "270",
+      "geometry": "This model is made from a combination of pentagons and hexagons."
+    }
+   ]
