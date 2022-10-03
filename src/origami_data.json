@@ -94,5 +94,53 @@
         "designer": "Thomas Hull",
         "units": "90",
         "geometry": "This model is made from a combination of pentagons and hexagons."
+      },
+      {
+        "id": 13,
+        "title": "Sonobe lamp #2",
+        "name": "Sonobe",
+        "designer": "",
+        "units": "90",
+        "geometry": "This model is made from a combination of pentagons and hexagons."
+      },
+      {
+        "id": 13,
+        "title": "Sonobe Lamp #2",
+        "name": "Sonobe",
+        "designer": "Mitsunobu Sonobe",
+        "units": "270",
+        "geometry": "This model is made from a combination of pentagons and hexagons."
+      },
+      {
+        "id": 14,
+        "title": "Sonobe Cube Lamp",
+        "name": "Sonobe",
+        "designer": "Mitsunobu Sonobe",
+        "units": "12",
+        "geometry": "This is a variation on the classic sonobe module that I came up with (though I'm sure others have discovered the same/similar sonobe variations)."
+      },
+      {
+        "id": 15,
+        "title": "Small Window Star",
+        "name": "Window Star",
+        "designer": "Unknown",
+        "units": "19",
+        "geometry": "This is a small star I made, though I'm not sure if the units were an original creation."
+      },
+      {
+        "id": 16,
+        "title": "Torus of Cubes",
+        "name": "Diamond Window",
+        "designer": "Unknown",
+        "units": "48",
+        "geometry": "This ring is made of cubes built with the diamond window unit."
+      },
+      {
+        "id": 17,
+        "title": "Rose Unit Variation Lamp #2",
+        "name": "Rose unit variation",
+        "designer": "Original rose unit by Tomoko Fuse, variation by me",
+        "units": "120",
+        "geometry": "I created this variation on Fuse's rose unit for this lamp. The model is built from 12 pentagons and 36 hexagons, which provide the curvature for the lamp."
       }
    ]
