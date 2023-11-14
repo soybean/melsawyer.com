@@ -22,6 +22,8 @@ import img_21 from '../../img/21.png';
 import img_22 from '../../img/22.png';
 import img_23 from '../../img/23.png';
 import img_24 from '../../img/24.png';
+import img_25 from '../../img/25.png';
+import img_26 from '../../img/26.png';
 
 
 
@@ -74,6 +76,8 @@ export class OrigamiImages{
     23 = img_23
 
     24 = img_24
+    25 = img_25
+    26 = img_26
 
 
   }

@@ -26,6 +26,8 @@ import twentyOne from '../img/21.png';
 import twentyTwo from '../img/22.png';
 import twentyThree from '../img/23.png';
 import twentyFour from '../img/24.png';
+import twentyFive from '../img/25.png';
+import twentySix from '../img/26.png';
 
 export default function Origami() {
 
@@ -73,6 +75,10 @@ export default function Origami() {
             <OrigamiImage src={twentyTwo} id={22}/>
             <OrigamiImage src={twentyThree} id={23}/>
             <OrigamiImage src={twentyFour} id={24}/>
+        </Row>
+        <Row>
+            <OrigamiImage src={twentyFive} id={25}/>
+            <OrigamiImage src={twentySix} id={26}/>
         </Row>
 
     </Container>

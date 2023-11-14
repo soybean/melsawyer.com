@@ -31,8 +31,9 @@
   font-size: 25px;
 }
 .origami-img {
-  width:80%;
-  height: 80%;
+  width:95%;
+  height: 95%;
+  border-radius: 5px;
 }
 
 .page-title {
@@ -174,9 +175,10 @@
   z-index: 10 !important;
 }
 
+
 body {
   font-family: 'Molengo', sans-serif !important;
-  font-size: 22px;
+  font-size: 35px;
   color: black !important;
   padding-left: 100px;
   padding-right: 100px;
@@ -399,5 +401,6 @@ border-bottom: 4px solid #57C600;
 }
 
 img {
-  padding-bottom: 20px;
+  border-radius: 5px;
+  margin-bottom: 20px;
 }

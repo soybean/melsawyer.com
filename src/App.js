@@ -5,6 +5,7 @@ import Projects from "./components/Projects";
 import Origami from "./components/Origami";
 import OrigamiItem from "./components/Subcomponents/OrigamiItem"
 import Contact from "./components/Contact";
+import Resume from "./components/Resume";
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 // import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
@@ -29,6 +30,10 @@ function App() {
         <Route
           path="/origami"
           element={<Origami />}
+        />
+        <Route
+          path="/resume"
+          element={<Resume />}
         />
         <Route
           path="/contact"

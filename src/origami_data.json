@@ -31,22 +31,23 @@
         "units": "120",
         "geometry": "'Sonobe carpet', as it is sometimes called, is only made of hexagons which provide the neutral curvature."
       },
-      {
-        "id": 5,
-        "title": "Sonobe Lamp",
-        "name": "Sonobe",
-        "designer": "Mitsunobu Sonobe",
-        "units": "270",
-        "geometry": "This model is made from a combination of pentagons and hexagons."
-      },
+
       {
         "id": 6,
-        "title": "Arijigoku sphere",
+        "title": "Arijigoku cylinderical lamp",
         "name": "Arijigoku (Ant-Lion Nest)",
         "designer": "Tomoko Fuse",
-        "units": "270",
-        "geometry": "This model is made from a combination of pentagons and hexagons."
+        "units": "I didn't count or plan-- my estimate is around 1100.",
+        "geometry": "I experimented with a taper at the top and the bottom of the lamp, to keep it secure to the frame. I included 4 vertices of pentagons on each end."
       },
+          {
+      "id": 7,
+      "title": "Arijigoku sphere",
+      "name": "Arijigoku (Ant-Lion Nest)",
+      "designer": "Tomoko Fuse",
+      "units": "270",
+      "geometry": "One of my small-paper endeavors-- paper size is 1x2cm"
+    },
       {
         "id": 7,
         "title": "Rose Unit Variation Lamp #2",
@@ -65,11 +66,11 @@
       },
       {
         "id": 9,
-        "title": "Fiesta Lamp #1",
+        "title": "Egg lamp",
         "name": "Fiesta model",
         "designer": "Maria Vakhrusheva",
-        "units": "880",
-        "geometry": "I created the oblong shape of this lamp by using only hexagons in the middle section while using the same pentagon/hexagon combination in the top and bottom."
+        "units": "150",
+        "geometry": "This lamp has vertices of 4 edges at the top and the bottom, which create the egg-like shape. "
       },
       {
         "id": 10,
@@ -104,14 +105,6 @@
         "geometry": "This model is made from a combination of pentagons and hexagons."
       },
       {
-        "id": 13,
-        "title": "Sonobe Lamp #2",
-        "name": "Sonobe",
-        "designer": "Mitsunobu Sonobe",
-        "units": "270",
-        "geometry": "This model is made from a combination of pentagons and hexagons."
-      },
-      {
         "id": 14,
         "title": "Sonobe Cube Lamp",
         "name": "Sonobe",
@@ -142,5 +135,78 @@
         "designer": "Original rose unit by Tomoko Fuse, variation by me",
         "units": "120",
         "geometry": "I created this variation on Fuse's rose unit for this lamp. The model is built from 12 pentagons and 36 hexagons, which provide the curvature for the lamp."
+      },
+            {
+        "id": 18,
+        "title": "Centerpiece lamp",
+        "name": "Fiesta model",
+        "designer": "Maria Vakhrusheva",
+        "units": "120",
+        "geometry": "One of my largest lamps (made from 12cm x 12cm paper). Typical dodecahedron geometry."
+      },
+      {
+        "id": 19,
+        "title": "Ascending dodecahedrons",
+        "name": "135 degree unit",
+        "designer": "Francis Ow",
+        "units": "120",
+        "geometry": "Another 120 unit dodeahedron. Each sphere is 1.2x larger than its sibling."
+      },
+      {
+        "id": 20,
+        "title": "Sonobe lamp",
+        "name": "Sonobe",
+        "designer": "Mitsunobu Sonobe",
+        "units": "270",
+        "geometry": "270 pieces of 1.5 x 1.5 inch paper."
+      },
+            {
+        "id": 21,
+        "title": "Rose unit mobile",
+        "name": "Rose unit variation",
+        "designer": "Original rose unit by Tomoko Fuse, variation by me",
+        "units": "120",
+        "geometry": "Each sphere is 120 units, and has a ratio of 1.55/1 to its smaller sibling"
+      },
+            {
+        "id": 22,
+        "title": "Venetian Star #3",
+        "name": "Venetian Star",
+        "designer": "Paolo Bascetta",
+        "units": "48",
+        "geometry": "6 8-unit stars, descending in size, form this model. I used a ratio of 0.793 for the paper sizes."
+      },
+                  {
+        "id": 23,
+        "title": "Venetian Star #3",
+        "name": "Venetian Star",
+        "designer": "Paolo Bascetta",
+        "units": "48",
+        "geometry": "6 8-unit stars, descending in size, form this model. I used a ratio of 0.793 for the paper sizes."
+      },
+      {
+        "id": 24,
+        "title": "Venetian Star #3",
+        "name": "Venetian Star",
+        "designer": "Paolo Bascetta",
+        "units": "48",
+        "geometry": "6 8-unit stars, descending in size, form this model. I used a ratio of 0.793 for the paper sizes."
+      },
+      {
+        "id": 25,
+        "title": "Fiesta Lamp #2",
+        "name": "Fiesta model",
+        "designer": "Maria Vakhrusheva",
+        "units": "880",
+        "geometry": "I created the oblong shape of this lamp by using only hexagons in the middle section while using the same pentagon/hexagon combination in the top and bottom."
+      },
+            {
+        "id": 26,
+        "title": "Sonobe Lamp",
+        "name": "Sonobe",
+        "designer": "Mitsunobu Sonobe",
+        "units": "270",
+        "geometry": "This model is made from a combination of pentagons and hexagons."
       }
+      
    ]

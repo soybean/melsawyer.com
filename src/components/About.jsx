@@ -6,7 +6,7 @@ export default function About() {
         <NavBar />
         <div className="restrict-left mb3">
         <div className="left-title">about</div>
-                I'm currently a software engineer at <a className="unlink highlight-lg" href="https://www.etsy.com" target="_blank">Etsy</a> working on the Payments team. I work primarily in React/Redux, Typescript, and PHP. I'm also on the board of directors for <a href="https://www.origamiusa.org" className="unlink highlight-g" target="_blank">OrigamiUSA</a> for the 2022-2024 term. I studied computer science and applied math in the engineering school at <a className="unlink highlight-tq" href="https://www.engineering.columbia.edu/" target="_blank">Columbia</a>, and graduated in May 2022. While at Columbia, I served as a teaching assistant for the following courses:
+                I'm currently a software engineer at <a className="unlink highlight-lg" href="https://www.etsy.com" target="_blank">Etsy</a> working on the Payments team. I work primarily in React/Redux, Typescript, and PHP. I'm also on the board of directors for <a href="https://www.origamiusa.org" className="unlink highlight-g" target="_blank">OrigamiUSA</a> for the 2022-2024 term. I studied computer science and applied math in the engineering school at <a className="unlink highlight-tq" href="https://www.engineering.columbia.edu/" target="_blank">Columbia</a>. While at Columbia, I served as a teaching assistant for the following courses:
                 <TeachingItem name="COMS 1007: Honors Intro to Computer Science" color="light-g" />
                 <TeachingItem name="COMS 1006: Intro to Programming for Engineers" color="g" />
                 <TeachingItem name="COMS 3261: Computer Science Theory" color="tq" />

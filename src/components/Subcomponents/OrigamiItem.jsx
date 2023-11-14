@@ -19,10 +19,10 @@ export default function OrigamiItem(props) {
     return <Container>
         <Link to="/origami" className="unlink"><div className="mt-3 nunito"><b>&#8592; Back to all models</b></div></Link>
         
-        <div className="smaller-title">{modelData.title}</div>
+        <div className="smaller-title">{modelData?.title ?? ""}</div>
         <Row>
-            <Col xs={4}><img src={img} className="img img-fluid origami-img"/></Col>
-            <Col xs={8}>
+            <Col xs={8}><img src={img} className="img img-fluid origami-img"/></Col>
+            <Col xs={4}>
                 <div className="origami-info">
                 <b>Name: </b>{modelData.name} <br/>
                 <b>Designer: </b>{modelData.designer} <br />
