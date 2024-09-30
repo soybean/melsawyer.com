@@ -21,7 +21,7 @@ export default function OrigamiItem(props) {
         
         <div className="smaller-title">{modelData?.title ?? ""}</div>
         <Row>
-            <Col xs={8}><img src={img} className="img img-fluid origami-img"/></Col>
+            <Col xs={8}><img src={img} alt="origami image" className="img img-fluid origami-img"/></Col>
             <Col xs={4}>
                 <div className="origami-info">
                 <b>Name: </b>{modelData.name} <br/>

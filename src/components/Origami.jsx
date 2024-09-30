@@ -34,7 +34,7 @@ export default function Origami() {
     return <div> 
         <NavBar />
         <div className="page-title">modular origami</div>
-        <div className="centered mt-1 mb-3">Here's a collection of models I've made over the years. Click on each image for information and the geometry of each model. For more, <a href="https://www.instagram.com/msorigami" className="unlink highlight-d-prp" target="_blank">check out my Instagram!</a></div>
+        <div className="centered mt-1 mb-3">Here's a collection of models I've made over the years. Click on each image for information and the geometry of each model. For more, <a href="https://www.instagram.com/origamel" className="unlink highlight-d-prp" rel="noreferrer" target="_blank">check out my Instagram!</a></div>
         <Container>
         <Row>
             <OrigamiImage src={first} id={1}/>
