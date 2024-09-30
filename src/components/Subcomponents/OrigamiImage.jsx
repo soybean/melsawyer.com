@@ -7,7 +7,7 @@ import React from 'react';
 export default function OrigamiImage(props) {
     return <Col>
     <Link to={"/origami/" + props.id}>
-        <img className="img img-fluid" alt="origami image" src={props.src} />
+        <img className="img img-fluid" alt="origami" src={props.src} />
         </Link>
     </Col>
 
